@@ -1,5 +1,11 @@
 # My PORTFOLIO
 
+Contact me:
+
+Phone: 9966896065
+Email: ramurayudu789@gmail.com
+
+
 ## [Project 1: Blinkit Sales Analytics Dashboard](https://app.powerbi.com/links/RwAOPzWgpu?ctid=ffa76a2b-9b62-4b16-a12c-a940b0d587e7&pbi_source=linkShare)
 
 ### Key Metrics Summary
