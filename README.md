@@ -15,6 +15,8 @@
 #### Employee & Job Role Insights
 * Attrition by Job Role: High in Sales, HR, and Research Scientist roles.
 * Attrition by Marital Status: Married (673), Single (470), Divorced (327).
+#### Excel Dashboard
+![HR Analytics Dashboard-](Dashboard.png)
 #### Purpose
 This dashboard helps HR teams analyze attrition trends, workforce demographics, and job satisfaction to improve employee retention and optimize HR strategies.
 
